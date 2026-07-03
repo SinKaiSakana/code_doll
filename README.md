@@ -40,7 +40,7 @@ suis:doll 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
   <img src="./images/ad.jpg" width="80%" />
 </div>
 
-## 演示
+## 演示视频(点击播放)
 
  - 简约直白的设置页面
 
@@ -48,6 +48,22 @@ suis:doll 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
   <img src="./images/ad_演示_设置页面.gif" width="370" />
 </div>
 
+ - 自动解析用户需求, 快速刷取开局的中立卡/装备
+
 <div align="center">
-  <img src="./images/ad_装备需求_未知区.gif" width="660" />
+  <img src="./images/ad_演示_开局.gif" width="660" />
 </div>
+
+ - 规划路线, 进入商店采购, 仅在余额充足时刷新
+
+<div align="center">
+  <img src="./images/ad_演示_安全区商店.gif" width="660" />
+</div>
+
+ - 识别未知区事件, 判断最佳选项
+
+<div align="center">
+  <img src="./images/ad_演示_未知事件.gif" width="660" />
+</div>
+
+ - 以及更多…
