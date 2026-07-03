@@ -37,7 +37,7 @@ suis:doll 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
 ## 宣传帖
 
 <div align="center">
-  <img src="./images/ad.jpg" width="100%" />
+  <img src="./images/ad.jpg" width="80%" />
 </div>
 
 ## 演示
